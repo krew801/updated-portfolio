@@ -1,0 +1,27 @@
+body,
+html {
+    min-height: 100%;
+}
+body {
+    background-image: url("../assets/images/29702.jpg");
+    background-repeat: no-repeat; 
+    background-size: cover;
+}
+.container {
+    background-image: linear-gradient(to top, rgb(219, 214, 219), rgb(219, 216, 216));
+    border-radius: 5px;
+    font-size: 20px;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+    position: relative;
+    margin: 0 auto;
+    margin-top:20px;
+    height: auto;
+    width: 85%;
+    opacity: .70;
+}
+#image{
+    padding-top:20px;
+    padding-right: 5px;
+    
+}
